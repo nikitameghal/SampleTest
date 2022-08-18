@@ -26,6 +26,7 @@ WebDriver driver=new ChromeDriver();
 		System.out.println("-----------------");
 		System.out.println("welcome to jenkins");
 		System.out.println("-----------------");
+		System.out.println("welcome to jenkins");
 		
 		driver.close();
 	}
